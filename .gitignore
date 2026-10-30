@@ -1,0 +1,28 @@
+# Binaries and compiled classes
+bin/
+*.class
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.iml
+*.iws
+*.ipr
+.settings/
+.project
+.classpath
+
+# Build and distribution
+out/
+target/
+build/
+*.jar
+*.war
+
+# OS metadata
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Logs
+*.log
